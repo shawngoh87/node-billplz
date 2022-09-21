@@ -1,7 +1,7 @@
 {
-  "name": "billplz",
-  "version": "1.0.3",
-  "description": "Billplz API Wrapper",
+  "name": "@shawngoh87/billplz",
+  "version": "1.0.0",
+  "description": "Billplz API Wrapper (fork from suhz/node-billplz)",
   "main": "index.js",
   "types": "index.d.ts",
   "scripts": {
